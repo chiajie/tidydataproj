@@ -4,6 +4,7 @@ The raw data set was obtained from [this link] (https://d396qusza40orc.cloudfron
 ####The variables
 *Variable 1: Subject - refers to the number of the subject involved in the Human Activity Recognition experiment
    >There are a total of 30 subjects ranging from subject 1 to subject 30.
+   
 *Variable 2: Activity - refers to the activity being carried out by the subject during the experiment.
    >There are six different kinds of activities namely walking, walking upstairs, walking downstairs, sitting, standing and laying.
 *Variables 3 to 68: means of various measurements extracted from the UCI HAR data sets. Detailed explanation of each variable can be found in the README.md file accompanying the raw data set.
